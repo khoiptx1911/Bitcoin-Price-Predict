@@ -17,4 +17,3 @@
 
 ## Đồ án môn học
 * Tên đồ án: Dự đoán giá của Bitcoin
-* Thư mục: []()
